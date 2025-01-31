@@ -1,0 +1,42 @@
+---
+title: "Method seminar: Improving the credibility of future research"
+author: "Lars Schilling"
+date: "`r Sys.Date()`"
+output:
+  html_document:
+    toc: true
+    toc_depth: 3
+    toc_float: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r loading dependencies, include = FALSE}
+
+```
+
+```{r loading data, include = FALSE}
+
+```
+
+# Data wrangling
+
+```{r data wrangling, include = TRUE}
+
+```
+
+# Plots
+
+## Good plot
+
+```{r good plot, include = TRUE}
+
+```
+
+## Bad plot
+
+```{r bad plot, include = TRUE}
+
+```
