@@ -20,6 +20,3 @@ This repository is structured as follows: All other files than this README are p
 The geographical data used witin the "assignment.rmd" file was taken from the `rnaturalearth` package. The data might not be complete or correct. The survey data used within the "assignment.rmd" file was simulated within the script. This data therefore makes no claim of completeness or correctness either. Please be aware of these limitations when interpreting the results.
 
 ---
-## Licence
-
-This repository contains materials created as part of an academic assessment.  The contents are for personal and educational purposes only and may not be reused, modified, or distributed without permission.
