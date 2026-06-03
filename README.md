@@ -1,4 +1,4 @@
-# Method Seminar: Improving the Credibility of Future Research (Assignment)
+# Improving the credibility of future research: Digital project management, data preparation and visualisation (Assignment)
 
 This repository contains all materials for the final assignment of the course *"Improving the credibility of future research: Digital project management, data preparation and visualisation"* at the University of Bern (Fall Semester 2024).
 
