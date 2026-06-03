@@ -1,6 +1,6 @@
 # Method Seminar: Improving the Credibility of Future Research (Assignment)
 
-This repository contains all materials for the final assignment of the course *"Method seminar: Improving the credibility of future research: Digital Project management, data preparation and visualization"* at the University of Bern (Fall Semester 2024).
+This repository contains all materials for the final assignment of the course *"Improving the credibility of future research: Digital project management, data preparation and visualisation"* at the University of Bern (Fall Semester 2024).
 
 The course aimed to enable psychology Master's students to analyze raw data in a robust, verifiable, and reproducible way using RStudio, thereby strengthening the entire research process.
 
