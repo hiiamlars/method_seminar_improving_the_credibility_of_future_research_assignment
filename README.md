@@ -1,16 +1,15 @@
-# Method Seminar: Improving the credebility of future Research (Assignment)
+# Improving the credibility of future research: Digital project management, data preparation and visualisation (Assignment)
 
-This repository contains all material for the final assignment of the course "Method seminar: Improving the credebility of future research: Digital Project management, data preparation and visualization" at the University of Bern in the fall semester 2024.
+This repository contains all materials for the final assignment of the course *"Improving the credibility of future research: Digital project management, data preparation and visualisation"* at the University of Bern (Fall Semester 2024).
 
-In particular, the course aimed to enable students to analyze raw data in a robust, verifiable and reproducible way using R Studio, thus strengthening the entire research process. It was aimed at masters students of psychology.
+The course aimed to enable psychology Master's students to analyze raw data in a robust, verifiable, and reproducible way using RStudio, thereby strengthening the entire research process.
 
-Named course covered the following content:
-
-- Data wrangling - using R and the {tidyverse} including {dplyr}, {tidyr}, and {stringr}
-- Visualisation - using {ggplot2} and supporting packages
-- Reproducible reports - using {RMarkdown}
-- Version control - using GitHub
+## Covered Topics
+- **Data Wrangling:** Data manipulation using `R` and the `{tidyverse}` (including `{dplyr}`, `{tidyr}`, and `{stringr}`).
+- **Visualization:** Advanced plotting using `{ggplot2}` and supporting packages.
+- **Reproducible Reporting:** Generating dynamic reports with `{rmarkdown}`.
+- **Version Control:** Collaborative workflow and project management using GitHub.
 
 ## Disclaimer
 
-The geographical data used witin the "assignment.rmd" file was taken from the `rnaturalearth` package. The data might not be complete or correct. The survey data used within the "assignment.rmd" file was simulated within the script. This data therefore makes no claim of completeness or correctness either. Please be aware of these limitations when interpreting the results.
+The geographical data used within the analysis was obtained from the `{rnaturalearth}` package. This data might not be complete or correct. The survey data used within the script was simulated. Therefore, this data makes no claim of completeness or correctness either. Please be aware of these limitations when interpreting the results.
